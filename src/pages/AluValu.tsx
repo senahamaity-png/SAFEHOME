@@ -169,10 +169,10 @@ function AluValu({ nextPage }: AluValuProps) {
               </div>
 
               <div className="photo-frame">
-                <img
-                src="/SAFEHOME/sneha1.jpeg"
-                  alt="Unique Alu"
-                />
+                <img 
+  src={`${import.meta.env.BASE_URL}sneha1.jpeg`} 
+  alt="Unique Alu" 
+/>
               </div>
 
               <div className="subject-info">
@@ -238,10 +238,10 @@ function AluValu({ nextPage }: AluValuProps) {
               </div>
 
               <div className="photo-frame">
-                <img
-                src="/SAFEHOME/valu.jpeg"
-                  alt="Valu Teddy"
-                />
+                <img 
+  src={`${import.meta.env.BASE_URL}valu.jpeg`} 
+  alt="Valu Teddy" 
+/>
               </div>
 
               <div className="subject-info">
