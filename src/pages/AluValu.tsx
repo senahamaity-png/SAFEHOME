@@ -170,7 +170,7 @@ function AluValu({ nextPage }: AluValuProps) {
 
               <div className="photo-frame">
                 <img
-                  src="/sneha1.jpeg"
+                src="/SAFEHOME/sneha1.jpeg"
                   alt="Unique Alu"
                 />
               </div>
@@ -239,7 +239,7 @@ function AluValu({ nextPage }: AluValuProps) {
 
               <div className="photo-frame">
                 <img
-                  src="/valu.jpeg"
+                src="/SAFEHOME/valu.jpeg"
                   alt="Valu Teddy"
                 />
               </div>
